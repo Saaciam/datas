@@ -84,7 +84,7 @@ Le nombre de motifs ne suffit pas, à lui seul, à définir la signification des
 ## Organisation du dépôt
 
 ```text
-mini-projet-medias-geolocalises/
+FSY/
 ├── README.md
 ├── workflow/
 │   └── Mini-Projet-v1.8.knwf
